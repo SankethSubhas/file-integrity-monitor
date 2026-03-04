@@ -1,8 +1,0 @@
-{
-  "created_at": "2026-03-04T17:59:21.842576",
-  "file_count": 2,
-  "snapshot": {
-    "/Users/sanketh/Documents/Github/File Integrity Monitor/Test/test_files/file2.txt": "e258d248fda94c63753607f7c4494ee0fcbe92f1a76bfdac795c9d84101eb317",
-    "/Users/sanketh/Documents/Github/File Integrity Monitor/Test/test_files/file1.txt": "5891b5b522d5df086d0ff0b110fbd9d21bb4fc7163af34d08286a2e846f6be03"
-  }
-}
