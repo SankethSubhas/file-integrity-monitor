@@ -1,0 +1,26 @@
+
+=================================================================
+SCAN REPORT — 2026-03-04T18:02:08.657590
+Total Events: 3
+
+[DELETED] /Users/sanketh/Documents/Github/File Integrity Monitor/Test/test_files/file2.txt
+  MITRE    : T1485 - Data Destruction
+  Tactic   : Impact
+  Old Hash : e258d248fda94c63753607f7c4494ee0fcbe92f1a76bfdac795c9d84101eb317
+  New Hash : None
+  Time     : 2026-03-04T18:02:08.657473
+
+[MODIFIED] /Users/sanketh/Documents/Github/File Integrity Monitor/Test/test_files/file1.txt
+  MITRE    : T1565.001 - Stored Data Manipulation
+  Tactic   : Impact
+  Old Hash : 5891b5b522d5df086d0ff0b110fbd9d21bb4fc7163af34d08286a2e846f6be03
+  New Hash : 7f8b1dfc466b6249f06cbe55c9174df2578e7754da793fded244ef5cba2a38f1
+  Time     : 2026-03-04T18:02:08.657477
+
+[ADDED] /Users/sanketh/Documents/Github/File Integrity Monitor/Test/test_files/file3.txt
+  MITRE    : T1105 - Ingress Tool Transfer
+  Tactic   : Command and Control
+  Old Hash : None
+  New Hash : 7aa7a5359173d05b63cfd682e3c38487f3cb4f7f1d60659fe59fab1505977d4c
+  Time     : 2026-03-04T18:02:08.657478
+
