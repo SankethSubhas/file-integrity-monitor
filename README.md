@@ -69,6 +69,12 @@ python3 fim.py scan --dir /path/to/monitor
 
 ---
 
+## Demo
+
+![File Integrity Monitor Demo](fim_demo.png)
+
+---
+
 ## MITRE ATT&CK Coverage
 
 | Event | Technique ID | Technique Name | Tactic |
